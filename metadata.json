@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Grand Arena - 4 Player Game",
+  "description": "A classic 4-player Ludo board game featuring authentic rules, animated 3D dice, intelligent bots, local multiplayer, safe zones, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
